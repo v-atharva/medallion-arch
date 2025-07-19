@@ -1,0 +1,11 @@
+quarter,ticker,company_name,avg_price,volume,market_index
+2024 Q4,AAPL,Apple Inc.,173.82,571770,2252.27
+2024 Q4,AMZN,Amazon.com Inc.,146.55,579280,2252.79
+2024 Q4,GOOGL,Alphabet Inc.,139.76,567280,2253.10
+2024 Q4,JPM,JPMorgan Chase & Co.,150.84,531950,2253.37
+2024 Q4,META,Meta Platforms Inc.,300.68,583100,2252.80
+2024 Q4,MSFT,Microsoft Corporation,324.85,598340,2252.70
+2024 Q4,NVDA,NVIDIA Corporation,451.64,576380,2252.90
+2024 Q4,PG,Procter & Gamble Company,154.51,566330,2252.59
+2024 Q4,TSLA,Tesla Inc.,248.68,557750,2252.01
+2024 Q4,WMT,Walmart Inc.,161.23,541470,2252.26
